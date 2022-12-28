@@ -1,0 +1,3 @@
+time="2022-12-28T23:01:49+08:00" level=info Agent=PostmanRuntime-ApipostRuntime/1.1.0 DataSize=64 HostName=LAPTOP-0T17VR88 Ip=127.0.0.1 Method=POST Path=/api/v1/user/add SpendTime="0 ms" status=200
+time="2022-12-28T23:01:57+08:00" level=info Agent=PostmanRuntime-ApipostRuntime/1.1.0 DataSize=58 HostName=LAPTOP-0T17VR88 Ip=127.0.0.1 Method=POST Path=/api/v1/user/add SpendTime="0 ms" status=200
+time="2022-12-28T23:02:11+08:00" level=info Agent=PostmanRuntime-ApipostRuntime/1.1.0 DataSize=67 HostName=LAPTOP-0T17VR88 Ip=127.0.0.1 Method=POST Path=/api/v1/user/add SpendTime="0 ms" status=200

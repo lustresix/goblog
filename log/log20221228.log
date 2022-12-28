@@ -1,0 +1,6 @@
+time="2022-12-28 10:04:30" level=info Agent=PostmanRuntime-ApipostRuntime/1.1.0 DataSize=235 HostName=LAPTOP-0T17VR88 Ip=127.0.0.1 Method=POST Path=/api/v1/login SpendTime="43 ms" status=200
+time="2022-12-28 10:04:51" level=info Agent=PostmanRuntime-ApipostRuntime/1.1.0 DataSize=235 HostName=LAPTOP-0T17VR88 Ip=127.0.0.1 Method=POST Path=/api/v1/login SpendTime="46 ms" status=200
+time="2022-12-28 10:04:55" level=info Agent=PostmanRuntime-ApipostRuntime/1.1.0 DataSize=235 HostName=LAPTOP-0T17VR88 Ip=127.0.0.1 Method=POST Path=/api/v1/login SpendTime="34 ms" status=200
+time="2022-12-28 23:01:49" level=info Agent=PostmanRuntime-ApipostRuntime/1.1.0 DataSize=64 HostName=LAPTOP-0T17VR88 Ip=127.0.0.1 Method=POST Path=/api/v1/user/add SpendTime="0 ms" status=200
+time="2022-12-28 23:01:57" level=info Agent=PostmanRuntime-ApipostRuntime/1.1.0 DataSize=58 HostName=LAPTOP-0T17VR88 Ip=127.0.0.1 Method=POST Path=/api/v1/user/add SpendTime="0 ms" status=200
+time="2022-12-28 23:02:11" level=info Agent=PostmanRuntime-ApipostRuntime/1.1.0 DataSize=67 HostName=LAPTOP-0T17VR88 Ip=127.0.0.1 Method=POST Path=/api/v1/user/add SpendTime="0 ms" status=200
